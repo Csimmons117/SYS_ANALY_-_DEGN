@@ -2,8 +2,10 @@
 |Group Members for this project|
 
 |Discord name| Real name   |
+|------------|-------------|
 |easymoney   |			   |
 |r-ham		 |			   |
 |Slick	     |			   |
 |Jish		 |			   |
 |Csimmons117 |			   |
+----------------------------
