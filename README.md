@@ -1,6 +1,5 @@
 # IS 431: Systems Analysis & Design
-|Group Members for this project|
-
+#### Group Members for this project
 |Discord name| Real name   |
 |------------|-------------|
 |easymoney   |			   |
